@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Input Change</title>
+<style>
+.bob {
+position:absolute;
+border:none;
+margin: auto;
+width:188px;
+height:16px;
+placeholder-color:red;
+}
+div{
+border-radius:4px;
+position:relative;
+width:188px;
+height:18px;
+border: 2px solid #888;
+margin: auto;
+}
+
+</style>
+</head>
+<body>
+<div>
+<input type="text" class="bob" placeholder="BOB SINA!!!">
+</div>
+<input type="text">
+</body>
